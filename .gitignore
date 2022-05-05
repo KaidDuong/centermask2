@@ -42,6 +42,7 @@ dist/
 /datasets/lvis
 /datasets/cityscapes
 /models
+/training_dir
 /debug
 /weights
 eval.sh
